@@ -1,0 +1,38 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="NUnitProject/TestAutomation.cs" Line="22" Column="1" />
+      <File FileName="NUnitProject/Base.cs" />
+      <File FileName="NUnitProject/CommonFunctions.cs" Line="8" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NUnitProject" expanded="True">
+            <Node name="NUnitProject" expanded="True">
+              <Node name="CommonFunctions.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="NUnitProject" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Debugger.DebugSourceFolders>
+    <String>/Users/sohamchaudhary/Library/Caches/VisualStudio/8.0/Symbols/mono/corefx/7c24bb0756fd39fbf09b8777f25c15d21d78eb46</String>
+    <String>/Users/sohamchaudhary/Library/Caches/VisualStudio/8.0/Symbols/mono/mono/8c552e98bd60bcbc47f8cafbc8c34a9433516ac8</String>
+  </Debugger.DebugSourceFolders>
+  <MonoDevelop.Ide.ItemProperties.NUnitProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/sohamchaudhary/Documents/Padmashree/NUnitProject/NUnitProject/TestAutomation.cs" relfile="NUnitProject/TestAutomation.cs" line="135" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
